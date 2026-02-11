@@ -1,19 +1,30 @@
 # AI Book Tagging Automation
 
-Objective:
-Automatically read books and map chapters to relevant questions in Excel.
-
-Tech stack:
+## Tech stack
 - Multimodal GPT  
 - OCR + Tesseract  
 - Hugging Face models  
 - spaCy NLP  
 - Fine-tuned Sentence-BERT  
+- Pinecone Vector DB    
+
+## Challenge
+Extracting accurate context from large books using single reference questions.
+
+## Objective
+Automate book analysis and map content to assessment questions.
+
+## Tech Stack
+- Multimodal GPT  
+- OCR + Tesseract  
+- Hugging Face models  
+- spaCy NLP  
+- Sentence-BERT  
 - Pinecone Vector DB  
 
-Impact:
-- Reduced effort from months to days  
-- Eliminated manual note-taking cost  
+## Business Impact
+- Reduced work from months → days  
+- Eliminated manual effort  
 
-Challenge:
-Extracting accurate context from large books using single reference questions.
+## AI Challenge
+Extracting precise context from large books.
