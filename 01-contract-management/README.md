@@ -1,32 +1,52 @@
 # Contract Management Automation
 
-Problem:
-Managing NDAs and internal contracts across multiple countries and teams was slow,
-manual, and expensive.
+# Contract Lifecycle Automation System
 
-Solution:
-Built an automated contract management workflow using:
+## Business Problem
+Global teams managed NDAs and internal contracts manually across multiple countries, leading to:
+- Slow turnaround times  
+- High operational risk  
+- Inconsistent approvals  
+- Expensive third-party tools  
+
+## Product Vision (PM Lens)
+Deliver a **centralized, compliant, and automated contract lifecycle platform** using existing Microsoft tools.
+
+## Solution
+Built an intelligent workflow system using:
 - Microsoft Power Automate  
-- SharePoint  
-- Microsoft Copilot  
+- SharePoint as system of record  
+- Microsoft Copilot for contract summarization  
 
-What I led:
+### Key Capabilities
+- Country-specific contract routing  
+- Automated approval workflows  
+- Template-based contract generation  
+- Audit trail & version control in SharePoint  
+- Role-based access  
+
+## AI / Automation Components
+- Copilot-assisted contract summarization  
+- Rule-based automation for routing  
+- Metadata extraction for compliance tracking  
+
+## Business Impact (KPIs)
+- Eliminated additional licensing costs  
+- 40–60% faster contract onboarding  
+- Reduced legal rework  
+- Standardized global processes  
+
+## Risks & Challenges (TPM Lens)
+- Legal accuracy validation  
+- Cross-country compliance alignment  
+- Change management across teams  
+
+## What I led:
 - Requirements gathering with legal and operations teams  
 - Workflow design  
 - Success metrics definition  
 - Stakeholder alignment across regions  
 
-Key Features:
-- Country-specific contract routing  
-- Automated approvals  
-- Template-based contract creation  
-- Audit trail storage in SharePoint  
-
-Business Impact:
-- Saved licensing costs by using existing Microsoft stack  
-- Faster turnaround time for new contracts  
-- Easier onboarding of new contract types  
-
-Challenges:
+## Challenges:
 - Ensuring legal accuracy  
 - Aligning workflows across countries  
