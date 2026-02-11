@@ -1,18 +1,30 @@
 # CodePilot — AI Coding Assistant
 
-Purpose:
+## Purpose:
 Help developers generate base code faster and with better quality.
 
-Built using:
+## Built using:
 - LLM chains  
 - LangChain  
 - Prompt engineering  
-- Multi-language code generation  
+- Multi-language code generation   
 
-Impact:
-- Reduced coding time  
-- More reliable boilerplate code  
-- Automated test suggestions  
-
-Challenges:
+## Challenges:
 - Accuracy across multiple programming languages
+  
+## Goal
+Accelerate software development with AI-generated code.
+
+## Tech Stack
+- LLM chains  
+- LangChain  
+- Prompt engineering  
+
+## Capabilities
+- Generate boilerplate code  
+- Suggest test cases  
+- Support multiple languages  
+
+## Impact
+- Faster development  
+- Higher code consistency  
