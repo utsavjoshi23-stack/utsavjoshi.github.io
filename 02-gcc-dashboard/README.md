@@ -19,4 +19,42 @@ Key Features:
 Business Impact:
 - Faster decision-making  
 - Reduced manual reporting effort  
-- Better visibility across teams  
+- Better visibility across teams
+
+## Business Problem
+Clients lacked a single source of truth for:
+- ROI tracking  
+- Project risks  
+- Delivery status  
+- Forecasted outcomes  
+
+## Product Strategy (PM)
+Create a **real-time decision intelligence platform** that turns fragmented data into actionable insights.
+
+## Solution
+A cloud-based AI dashboard using:
+- RAG for document retrieval  
+- LLM reasoning for insights  
+- Forecasting models for risk prediction  
+- Role-based access per client  
+
+## Core Features
+- Department-level dashboards  
+- Real-time data ingestion  
+- AI risk forecasting  
+- Automated alerts (email + in-app)  
+
+## AI Stack
+- Vector DB + embeddings  
+- LLM reasoning layer  
+- Time-series forecasting models  
+
+## Business Outcomes
+- Faster executive decision-making  
+- Reduced manual reporting effort  
+- Proactive risk detection  
+
+## Delivery Risks (TPM)
+- Data integration complexity  
+- Model explainability  
+- Governance for client access  
