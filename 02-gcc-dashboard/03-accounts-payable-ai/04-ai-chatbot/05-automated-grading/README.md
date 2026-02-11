@@ -1,19 +1,29 @@
 # Automated Grading Assessment System
 
-Problem:
+## Problem:
 Manual grading using bubble sheets and email was slow and error-prone.
 
-Solution:
-Used:
+## Solution:
 - OCR to read bubble sheets  
 - NLP models to extract examinee details  
 - Automated scoring engine  
 
-Metrics improved:
+## Metrics improved:
 - Processing time  
 - Response time  
 - Accuracy  
 - Human effort reduction  
 
-Challenge:
-Reading handwritten responses accurately.
+## Solution
+AI-driven grading system using:
+- OCR for bubble sheets  
+- NLP for text extraction  
+- Automated scoring engine  
+
+## Metrics Improved
+- Processing time  
+- Accuracy  
+- Human effort reduction  
+
+## Challenge
+Handwriting recognition accuracy  
