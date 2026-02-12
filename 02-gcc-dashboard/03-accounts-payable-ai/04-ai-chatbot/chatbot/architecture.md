@@ -1,3 +1,5 @@
+# Architecture Chatbot
+```mermaid
 graph TD
 A[User Ticket] --> B[Rasa NLU]
 B --> C[Intent Classification]
