@@ -1,6 +1,4 @@
 ```mermaid
-<diagram code here>
-```
 graph TD
 A[Multiple Data Sources] --> B[Data Ingestion Layer]
 B --> C[Vector Database]
