@@ -1,7 +1,7 @@
 # GCC (Global Capability Center) AI Dashboard
 
 Goal:
-Provide clients a single dashboard to track ROI, project status, risks, and forecasts.
+Provide clients with a single dashboard to track ROI, project status, risks, and forecasts.
 
 Built using:
 - RAG (Retrieval-Augmented Generation)  
