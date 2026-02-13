@@ -39,10 +39,12 @@ Each folder contains:
 
 ## Featured Projects
 
-1) **Contract Lifecycle Automation (Power Automate + SharePoint + MS Copilot)**  
-2) **GCC AI Decision Intelligence Dashboard (RAG + LLM + Forecasting + Cloud)**  
-3) **Multilingual Accounts Payable AI (OCR + NLP + Azure)**  
-4) **AI Ticket Resolution Chatbot (Rasa + APIs)**  
-5) **Automated Grading System (OCR + NLP + ML)**  
-6) **AI Book Tagging & Knowledge Mapping (Multimodal + Vector DB)**  
-7) **CodePilot — AI Coding Assistant (LLM Chains + LangChain)**  
+1) **Contract Lifecycle Automation (Power Automate + SharePoint + MS Copilot)**
+2) **AI Contract Risk Analyzer (Legal BERT + Pinecone + LangChain)**
+3) **GCC AI Decision Intelligence Dashboard (RAG + LLM + Forecasting + Cloud)**  
+4) **Multilingual Accounts Payable AI (OCR + NLP + Azure)**  
+5) **AI Ticket Resolution Chatbot (Rasa + APIs)**  
+6) **Automated Grading System (OCR + NLP + ML)**  
+7) **AI Book Tagging & Knowledge Mapping (Multimodal + Vector DB)**  
+8) **CodePilot — AI Coding Assistant (LLM Chains + LangChain)**
+9) **Enterprise Knowledge Assistant (RAG + HuggingFace + Pinecone + LangChain + Rasa)**
